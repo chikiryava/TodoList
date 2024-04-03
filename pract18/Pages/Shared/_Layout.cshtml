@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Сервис заметок ЕКТС - @ViewBag.Title</title>
+    <link href="~/styles/main.css" rel="stylesheet"/>
+    @RenderSection("links",false)
+</head>
+<body>
+
+    <div class="wrapper">
+        <header class="main-header">
+            <nav>
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <div class="nav-start">
+                        <a asp-page="/Index">Мои заметки</a>
+                        <a asp-page="/AddPost">Добавить заметку</a>
+                    </div>
+                    <div class="nav-end">
+                        <a href="/Logout">Выход из системы</a>
+                    </div>
+                }
+                else
+                {
+                    <div class="nav-end">
+                        <a asp-page="/Login">Вход</a>
+                        <a asp-page="/Registration">Регистрация</a>
+                    </div>
+                }
+            </nav>
+        </header>
+        <main class="main-content">
+            @RenderBody()
+        </main>
+        <footer class="main-footer">
+            Сервис заметок. <br />
+            ЕКТС - 2024
+        </footer>
+    </div>
+</body>
+</html>

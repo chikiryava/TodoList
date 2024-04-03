@@ -1,0 +1,32 @@
+﻿.user-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 640px;
+}
+
+    .user-form h1 {
+        margin-bottom: 0.5em;
+    }
+
+    .user-form .form-control {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0.5em;
+    }
+
+.form-control input[type="submit"] {
+    padding: 0.25em;
+}
+.validation-summary-errors {
+    font-size: 25px;
+    color: #e60e0e;
+}
+
+.validation-summary-errors li {
+    margin-top: 20px;
+    list-style-type: none;
+    font-weight: 600;
+}
+    .validation-summary-errors li:last-child {
+    margin-bottom: 20px;
+}

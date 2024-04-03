@@ -1,0 +1,27 @@
+﻿@page
+@model pract18.Pages.RegistrationModel
+@{
+    ViewBag.Title = "Регистрация";
+}
+@section links {
+    <link href="~/Styles/userforms.css" rel="stylesheet" />
+}
+<form class="user-form" method="post">
+    <h1>Регистрация</h1>
+    <div class="form-control">
+        <label asp-for="UserViewModel.Username"></label>
+        <input asp-for="UserViewModel.Username"  />
+    </div>
+    <div class="form-control">
+        <label asp-for="UserViewModel.Password"></label>
+        <input asp-for="UserViewModel.Password" type="password"/>
+    </div>
+    <div class="form-control">
+        <label asp-for="UserViewModel.RepeatPassword"></label>
+        <input asp-for="UserViewModel.RepeatPassword" type="password"/>
+    </div>
+    <div asp-validation-summary="All" class="form-errors"></div>
+    <div class="form-control">
+        <button>Зарегистрироваться</button>
+    </div>
+</form>

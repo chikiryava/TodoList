@@ -1,0 +1,16 @@
+﻿*{
+    padding:0;
+    margin:0;
+}
+
+.post{
+    display:flex;
+    vertical-align:central;
+}
+.post-image-picture{
+    max-width:120%;
+}
+.post-content{
+    max-width:80%;
+}
+

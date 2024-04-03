@@ -1,0 +1,562 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\wwwroot\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\wwwroot\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\wwwroot\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\wwwroot\\styles\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\wwwroot\\images\\j0zc1hyv.qjy.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\wwwroot\\images\\j0zc1hyv.qjy.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\addpost.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\addpost.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\addpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\addpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\viewmodels\\addpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\viewmodels\\addpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\models\\postscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\models\\postscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\wwwroot\\styles\\userforms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\wwwroot\\styles\\userforms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pract18.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pract18.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\services\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\services\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\services\\sha256passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\services\\sha256passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Migrations\\20240403082734_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pract18\\Migrations\\20240403082734_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|c:\\users\\st310-08\\desktop\\shvets\\pract18\\pract18\\pract18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E894943A-AD4D-45C3-AFE1-373E3E5EE36D}|pract18\\pract18.csproj|solutionrelative:pract18\\pract18.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 417,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "pract18\\Services\\PostsService.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\PostsService.cs",
+              "RelativeToolTip": "pract18\\Services\\PostsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:21:05.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "pract18\\Services\\IPostService.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\IPostService.cs",
+              "RelativeToolTip": "pract18\\Services\\IPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:20:35.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddPost.cshtml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\AddPost.cshtml",
+              "RelativeDocumentMoniker": "pract18\\Pages\\AddPost.cshtml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\AddPost.cshtml",
+              "RelativeToolTip": "pract18\\Pages\\AddPost.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T10:19:46.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "pract18\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "pract18\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:37:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "pract18\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "pract18\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:44:08.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "pract18\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "pract18\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:43:53.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "pract18\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "pract18\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:47:42.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Registration.cshtml",
+              "RelativeDocumentMoniker": "pract18\\Pages\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Registration.cshtml",
+              "RelativeToolTip": "pract18\\Pages\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T08:37:32.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Models\\User.cs",
+              "RelativeDocumentMoniker": "pract18\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Models\\User.cs",
+              "RelativeToolTip": "pract18\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:26:07.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "pract18\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Index.cshtml",
+              "RelativeToolTip": "pract18\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T07:34:25.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\main.css",
+              "RelativeDocumentMoniker": "pract18\\wwwroot\\styles\\main.css",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\main.css",
+              "RelativeToolTip": "pract18\\wwwroot\\styles\\main.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T08:23:56.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\index.css",
+              "RelativeDocumentMoniker": "pract18\\wwwroot\\styles\\index.css",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\index.css",
+              "RelativeToolTip": "pract18\\wwwroot\\styles\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T10:24:49.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPost.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\AddPost.cshtml.cs",
+              "RelativeDocumentMoniker": "pract18\\Pages\\AddPost.cshtml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\AddPost.cshtml.cs",
+              "RelativeToolTip": "pract18\\Pages\\AddPost.cshtml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAlwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:21:49.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "j0zc1hyv.qjy.png",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\images\\j0zc1hyv.qjy.png",
+              "RelativeDocumentMoniker": "pract18\\wwwroot\\images\\j0zc1hyv.qjy.png",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\images\\j0zc1hyv.qjy.png",
+              "RelativeToolTip": "pract18\\wwwroot\\images\\j0zc1hyv.qjy.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-03T10:26:41.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddPostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\ViewModels\\AddPostViewModel.cs",
+              "RelativeDocumentMoniker": "pract18\\ViewModels\\AddPostViewModel.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\ViewModels\\AddPostViewModel.cs",
+              "RelativeToolTip": "pract18\\ViewModels\\AddPostViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:21:36.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "pract18\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Models\\Post.cs",
+              "RelativeToolTip": "pract18\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:25:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Registration.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Registration.cshtml.cs",
+              "RelativeDocumentMoniker": "pract18\\Pages\\Registration.cshtml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Registration.cshtml.cs",
+              "RelativeToolTip": "pract18\\Pages\\Registration.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:38:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Program.cs",
+              "RelativeDocumentMoniker": "pract18\\Program.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Program.cs",
+              "RelativeToolTip": "pract18\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T07:33:52.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "userforms.css",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\userforms.css",
+              "RelativeDocumentMoniker": "pract18\\wwwroot\\styles\\userforms.css",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\userforms.css",
+              "RelativeToolTip": "pract18\\wwwroot\\styles\\userforms.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T08:40:11.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostsContext.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Models\\PostsContext.cs",
+              "RelativeDocumentMoniker": "pract18\\Models\\PostsContext.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Models\\PostsContext.cs",
+              "RelativeToolTip": "pract18\\Models\\PostsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:26:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pract18\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pract18\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T07:34:56.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "pract18\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\Login.cshtml",
+              "RelativeToolTip": "pract18\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T09:33:52.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "pract18\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\UserService.cs",
+              "RelativeToolTip": "pract18\\Services\\UserService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:36:31.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "pract18\\Services\\IPasswordService.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\IPasswordService.cs",
+              "RelativeToolTip": "pract18\\Services\\IPasswordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:34:30.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "pract18",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\pract18.csproj",
+              "RelativeDocumentMoniker": "pract18\\pract18.csproj",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\pract18.csproj",
+              "RelativeToolTip": "pract18\\pract18.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T09:45:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "pract18\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\IUserService.cs",
+              "RelativeToolTip": "pract18\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:36:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\appsettings.json",
+              "RelativeDocumentMoniker": "pract18\\appsettings.json",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\appsettings.json",
+              "RelativeToolTip": "pract18\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T08:26:36.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Sha256PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\Sha256PasswordService.cs",
+              "RelativeDocumentMoniker": "pract18\\Services\\Sha256PasswordService.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Services\\Sha256PasswordService.cs",
+              "RelativeToolTip": "pract18\\Services\\Sha256PasswordService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:35:10.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240403082734_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Migrations\\20240403082734_Initial.cs",
+              "RelativeDocumentMoniker": "pract18\\Migrations\\20240403082734_Initial.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Migrations\\20240403082734_Initial.cs",
+              "RelativeToolTip": "pract18\\Migrations\\20240403082734_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:27:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "pract18\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "pract18\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T07:35:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "pract18\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "pract18\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T07:36:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "pract18",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\pract18.csproj",
+              "RelativeDocumentMoniker": "pract18\\pract18.csproj",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\pract18.csproj",
+              "RelativeToolTip": "pract18\\pract18.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T08:23:37.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

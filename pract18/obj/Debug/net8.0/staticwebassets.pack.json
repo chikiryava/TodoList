@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\images\\j0zc1hyv.qjy.png",
+      "PackagePath": "staticwebassets\\images\\j0zc1hyv.qjy.png"
+    },
+    {
+      "Id": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\images\\noimage.jpg",
+      "PackagePath": "staticwebassets\\images\\noimage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\index.css",
+      "PackagePath": "staticwebassets\\styles\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\main.css",
+      "PackagePath": "staticwebassets\\styles\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\st310-08\\Desktop\\Shvets\\pract18\\pract18\\wwwroot\\styles\\userforms.css",
+      "PackagePath": "staticwebassets\\styles\\userforms.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.pract18.props",
+      "PackagePath": "build\\pract18.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.pract18.props",
+      "PackagePath": "buildMultiTargeting\\pract18.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.pract18.props",
+      "PackagePath": "buildTransitive\\pract18.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.pract18.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
